@@ -26,5 +26,15 @@ namespace Cadastrosdeclientes.View
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Painel_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
