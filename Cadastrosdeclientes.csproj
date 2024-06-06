@@ -131,6 +131,9 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="View\Painel.resx">
+      <DependentUpon>Painel.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="View\RegistrarUsuario.resx">
       <DependentUpon>RegistrarUsuario.cs</DependentUpon>
     </EmbeddedResource>

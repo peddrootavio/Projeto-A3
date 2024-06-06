@@ -30,5 +30,15 @@ namespace Cadastrosdeclientes
             registrar.Show();
             
         }
+
+        private void lblLogotipo_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void imgLogo_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
