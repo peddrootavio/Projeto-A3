@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\AsiloA3\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\asiloa3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\asiloa3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\asiloa3\\view\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\registrarusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,36 +58,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\Login.cs",
-              "RelativeDocumentMoniker": "View\\Login.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\Login.cs",
-              "RelativeToolTip": "View\\Login.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:28:50.786Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RegistrarUsuario.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\RegistrarUsuario.cs",
-              "RelativeDocumentMoniker": "View\\RegistrarUsuario.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\RegistrarUsuario.cs [Design]",
-              "RelativeToolTip": "View\\RegistrarUsuario.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:25:43.14Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs",
               "RelativeDocumentMoniker": "View\\Login.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\AsiloA3\\View\\Login.cs [Design]",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs [Design]",
               "RelativeToolTip": "View\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T17:24:39.629Z",
