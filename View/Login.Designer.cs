@@ -74,9 +74,9 @@
             this.lblLogotipo.ForeColor = System.Drawing.Color.Peru;
             this.lblLogotipo.Location = new System.Drawing.Point(514, 62);
             this.lblLogotipo.Name = "lblLogotipo";
-            this.lblLogotipo.Size = new System.Drawing.Size(129, 39);
+            this.lblLogotipo.Size = new System.Drawing.Size(133, 51);
             this.lblLogotipo.TabIndex = 2;
-            this.lblLogotipo.Text = "LOGIN";
+            this.lblLogotipo.Text = "Login";
             this.lblLogotipo.Click += new System.EventHandler(this.lblLogotipo_Click);
             // 
             // txbEmail
@@ -86,7 +86,7 @@
             this.txbEmail.Location = new System.Drawing.Point(392, 184);
             this.txbEmail.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.txbEmail.Name = "txbEmail";
-            this.txbEmail.Size = new System.Drawing.Size(385, 26);
+            this.txbEmail.Size = new System.Drawing.Size(385, 31);
             this.txbEmail.TabIndex = 3;
             // 
             // lblSenha
@@ -97,7 +97,7 @@
             this.lblSenha.ForeColor = System.Drawing.Color.Peru;
             this.lblSenha.Location = new System.Drawing.Point(394, 246);
             this.lblSenha.Name = "lblSenha";
-            this.lblSenha.Size = new System.Drawing.Size(61, 20);
+            this.lblSenha.Size = new System.Drawing.Size(75, 25);
             this.lblSenha.TabIndex = 5;
             this.lblSenha.Text = "Senha";
             // 
@@ -109,7 +109,7 @@
             this.lblEmail.ForeColor = System.Drawing.Color.Peru;
             this.lblEmail.Location = new System.Drawing.Point(394, 152);
             this.lblEmail.Name = "lblEmail";
-            this.lblEmail.Size = new System.Drawing.Size(53, 20);
+            this.lblEmail.Size = new System.Drawing.Size(65, 25);
             this.lblEmail.TabIndex = 5;
             this.lblEmail.Text = "Email";
             // 
@@ -135,7 +135,7 @@
             this.textBox2.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.textBox2.Name = "textBox2";
             this.textBox2.PasswordChar = '*';
-            this.textBox2.Size = new System.Drawing.Size(385, 26);
+            this.textBox2.Size = new System.Drawing.Size(385, 31);
             this.textBox2.TabIndex = 4;
             // 
             // label1
@@ -146,7 +146,7 @@
             this.label1.ForeColor = System.Drawing.Color.DimGray;
             this.label1.Location = new System.Drawing.Point(134, 38);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(153, 17);
+            this.label1.Size = new System.Drawing.Size(178, 20);
             this.label1.TabIndex = 5;
             this.label1.Text = "Não é um membro? ";
             // 
@@ -178,7 +178,7 @@
             // 
             // FrmCadastro
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ButtonHighlight;
             this.ClientSize = new System.Drawing.Size(807, 498);

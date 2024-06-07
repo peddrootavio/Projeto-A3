@@ -1,22 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\arcel\\Projeto-A3\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\arcel\\projeto-a3\\view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\arcel\\projeto-a3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\arcel\\projeto-a3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\arcel\\projeto-a3\\view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,50 +58,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Painel.cs",
-              "DocumentMoniker": "C:\\Users\\arcel\\Projeto-A3\\View\\Painel.cs",
-              "RelativeDocumentMoniker": "View\\Painel.cs",
-              "ToolTip": "C:\\Users\\arcel\\Projeto-A3\\View\\Painel.cs*",
-              "RelativeToolTip": "View\\Painel.cs*",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAswBoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:23:44.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\arcel\\Projeto-A3\\View\\Login.cs",
-              "RelativeDocumentMoniker": "View\\Login.cs",
-              "ToolTip": "C:\\Users\\arcel\\Projeto-A3\\View\\Login.cs*",
-              "RelativeToolTip": "View\\Login.cs*",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:18:41.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Painel.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arcel\\Projeto-A3\\View\\Painel.cs",
-              "RelativeDocumentMoniker": "View\\Painel.cs",
-              "ToolTip": "C:\\Users\\arcel\\Projeto-A3\\View\\Painel.cs [Design]*",
-              "RelativeToolTip": "View\\Painel.cs [Design]*",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T18:17:34.83Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\arcel\\Projeto-A3\\View\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs",
               "RelativeDocumentMoniker": "View\\Login.cs",
-              "ToolTip": "C:\\Users\\arcel\\Projeto-A3\\View\\Login.cs [Design]*",
-              "RelativeToolTip": "View\\Login.cs [Design]*",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs [Design]",
+              "RelativeToolTip": "View\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T17:24:39.629Z",
               "EditorCaption": " [Design]"
