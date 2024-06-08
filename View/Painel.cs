@@ -28,5 +28,15 @@ namespace Cadastrosdeclientes.View
             CadCuidador registrocuidador = new CadCuidador();   
             registrocuidador.Show();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Painel_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -10,7 +10,10 @@ namespace Cadastrosdeclientes
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
-       //// </summary>
+       //// </summary> /
+       //
+
+       // testasdas
         [STAThread]
         static void Main()
         {
