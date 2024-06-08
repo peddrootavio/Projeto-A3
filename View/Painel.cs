@@ -17,14 +17,16 @@ namespace Cadastrosdeclientes.View
             InitializeComponent();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        private void btnIdoso_Click(object sender, EventArgs e)
         {
-
+            CadIdoso registroidoso = new CadIdoso();
+            registroidoso.Show();
         }
 
-        private void panel1_Paint(object sender, PaintEventArgs e)
+        private void btnCuidador_Click(object sender, EventArgs e)
         {
-
+            CadCuidador registrocuidador = new CadCuidador();   
+            registrocuidador.Show();
         }
     }
 }

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\view\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\view\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\painel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\controller\\validarlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:controller\\validarlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +34,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs",
+              "RelativeDocumentMoniker": "View\\Login.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs",
+              "RelativeToolTip": "View\\Login.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAewAsAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:34:41.986Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -58,15 +92,64 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Painel.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Painel.cs",
+              "RelativeDocumentMoniker": "View\\Painel.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Painel.cs [Design]",
+              "RelativeToolTip": "View\\Painel.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:58:11.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CadIdoso.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\CadIdoso.cs",
+              "RelativeDocumentMoniker": "View\\CadIdoso.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\CadIdoso.cs [Design]",
+              "RelativeToolTip": "View\\CadIdoso.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:58:00.575Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CadCuidador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\CadCuidador.cs",
+              "RelativeDocumentMoniker": "View\\CadCuidador.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\CadCuidador.cs [Design]",
+              "RelativeToolTip": "View\\CadCuidador.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:55:42.3Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Login.cs [Design]",
               "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs",
               "RelativeDocumentMoniker": "View\\Login.cs",
               "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\View\\Login.cs [Design]",
               "RelativeToolTip": "View\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T17:24:39.629Z",
+              "WhenOpened": "2024-06-08T07:33:37.19Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ValidarLogin.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Controller\\ValidarLogin.cs",
+              "RelativeDocumentMoniker": "Controller\\ValidarLogin.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Controller\\ValidarLogin.cs",
+              "RelativeToolTip": "Controller\\ValidarLogin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T06:18:58.138Z",
+              "EditorCaption": ""
             }
           ]
         }

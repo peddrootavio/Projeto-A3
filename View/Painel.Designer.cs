@@ -28,72 +28,97 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.painelLateral = new System.Windows.Forms.Panel();
-            this.Logo = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
-            this.painelLateral.SuspendLayout();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Painel));
+            this.btnIdoso = new System.Windows.Forms.Button();
+            this.btnCuidador = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
+            this.pbImagem2 = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.pbImagem2)).BeginInit();
             this.SuspendLayout();
             // 
-            // painelLateral
+            // btnIdoso
             // 
-            this.painelLateral.BackColor = System.Drawing.Color.NavajoWhite;
-            this.painelLateral.Controls.Add(this.button2);
-            this.painelLateral.Controls.Add(this.button1);
-            this.painelLateral.Controls.Add(this.Logo);
-            this.painelLateral.Dock = System.Windows.Forms.DockStyle.Left;
-            this.painelLateral.Location = new System.Drawing.Point(0, 0);
-            this.painelLateral.Name = "painelLateral";
-            this.painelLateral.Size = new System.Drawing.Size(210, 575);
-            this.painelLateral.TabIndex = 0;
-            this.painelLateral.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            this.btnIdoso.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnIdoso.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnIdoso.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnIdoso.ForeColor = System.Drawing.Color.White;
+            this.btnIdoso.Image = ((System.Drawing.Image)(resources.GetObject("btnIdoso.Image")));
+            this.btnIdoso.Location = new System.Drawing.Point(129, 199);
+            this.btnIdoso.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnIdoso.Name = "btnIdoso";
+            this.btnIdoso.Size = new System.Drawing.Size(169, 155);
+            this.btnIdoso.TabIndex = 10;
+            this.btnIdoso.Text = "IDOSO";
+            this.btnIdoso.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnIdoso.UseVisualStyleBackColor = false;
+            this.btnIdoso.Click += new System.EventHandler(this.btnIdoso_Click);
             // 
-            // Logo
+            // btnCuidador
             // 
-            this.Logo.Dock = System.Windows.Forms.DockStyle.Top;
-            this.Logo.Location = new System.Drawing.Point(0, 0);
-            this.Logo.Name = "Logo";
-            this.Logo.Size = new System.Drawing.Size(210, 79);
-            this.Logo.TabIndex = 0;
+            this.btnCuidador.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.btnCuidador.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.btnCuidador.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCuidador.ForeColor = System.Drawing.Color.White;
+            this.btnCuidador.Image = ((System.Drawing.Image)(resources.GetObject("btnCuidador.Image")));
+            this.btnCuidador.Location = new System.Drawing.Point(350, 199);
+            this.btnCuidador.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
+            this.btnCuidador.Name = "btnCuidador";
+            this.btnCuidador.Size = new System.Drawing.Size(169, 155);
+            this.btnCuidador.TabIndex = 10;
+            this.btnCuidador.Text = "CUIDADOR";
+            this.btnCuidador.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnCuidador.UseVisualStyleBackColor = false;
+            this.btnCuidador.Click += new System.EventHandler(this.btnCuidador_Click);
             // 
-            // button1
+            // label1
             // 
-            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button1.Location = new System.Drawing.Point(0, 79);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(210, 60);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Residentes";
-            this.button1.UseVisualStyleBackColor = true;
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI", 8.25F);
+            this.label1.ForeColor = System.Drawing.SystemColors.AppWorkspace;
+            this.label1.Location = new System.Drawing.Point(217, 385);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(212, 19);
+            this.label1.TabIndex = 12;
+            this.label1.Text = "© 2024, Casa do Idoso Viva Bem";
             // 
-            // button2
+            // pbImagem2
             // 
-            this.button2.Dock = System.Windows.Forms.DockStyle.Top;
-            this.button2.Location = new System.Drawing.Point(0, 139);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(210, 23);
-            this.button2.TabIndex = 2;
-            this.button2.Text = "Cuidador";
-            this.button2.UseVisualStyleBackColor = true;
+            this.pbImagem2.Image = ((System.Drawing.Image)(resources.GetObject("pbImagem2.Image")));
+            this.pbImagem2.Location = new System.Drawing.Point(197, -27);
+            this.pbImagem2.Name = "pbImagem2";
+            this.pbImagem2.Size = new System.Drawing.Size(267, 251);
+            this.pbImagem2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pbImagem2.TabIndex = 13;
+            this.pbImagem2.TabStop = false;
             // 
             // Painel
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(843, 575);
-            this.Controls.Add(this.painelLateral);
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(633, 413);
+            this.Controls.Add(this.label1);
+            this.Controls.Add(this.btnCuidador);
+            this.Controls.Add(this.btnIdoso);
+            this.Controls.Add(this.pbImagem2);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximizeBox = false;
             this.Name = "Painel";
-            this.Text = "Painel";
-            this.painelLateral.ResumeLayout(false);
+            this.ShowIcon = false;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "s";
+            ((System.ComponentModel.ISupportInitialize)(this.pbImagem2)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
         #endregion
-
-        private System.Windows.Forms.Panel painelLateral;
-        private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.Panel Logo;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnIdoso;
+        private System.Windows.Forms.Button btnCuidador;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox pbImagem2;
     }
 }

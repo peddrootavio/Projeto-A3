@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Cadastrosdeclientes.View
 {
-    public partial class RegistrarUsuario : Form
+    public partial class CadCuidador : Form
     {
-        public RegistrarUsuario()
+        public CadCuidador()
         {
             InitializeComponent();
         }
