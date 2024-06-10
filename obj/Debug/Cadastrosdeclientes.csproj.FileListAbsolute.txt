@@ -478,3 +478,49 @@ C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.exe
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.pdb
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadIdoso.resources
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadCuidador.resources
+C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadCronograma.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.View.CadCuidador.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.View.CadIdoso.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.FrmCadastro.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.Properties.Resources.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.View.Painel.resources
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.exe
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.pdb
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Cadastrosdeclientes.exe.config
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Cadastrosdeclientes.exe
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Cadastrosdeclientes.pdb
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Google.Protobuf.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\MySql.Data.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Buffers.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.IO.Pipelines.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Memory.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\ZstdSharp.dll
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Google.Protobuf.pdb
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Google.Protobuf.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\MySql.Data.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Buffers.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.IO.Pipelines.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Memory.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastro.0598FF96.Up2Date

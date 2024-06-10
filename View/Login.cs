@@ -10,7 +10,9 @@ namespace Cadastrosdeclientes
     public partial class FrmCadastro : Form
     {
        
-        private ValidadorLogin validadorLogin;
+        private Login validadorLogin;
+        //Declaração de uma variável privada do tipo ValidadorLogin 
+        //Esta variável será usada para armazenar uma instância da classe ValidadorLogin
 
         public FrmCadastro()
         {
@@ -23,14 +25,12 @@ namespace Cadastrosdeclientes
        .ConnectionStrings["MySqlConnectionString"]
        .ConnectionString;
 
-            validadorLogin = new ValidadorLogin(connectionString);
-
-                   
-
+        validadorLogin = new Login(connectionString);
+          // A instância é armazenada na variável validadorLogin declarada anteriormente.      
         }
 
 
-    private void FrmCadastro_KeyDown(object sender, KeyEventArgs e)
+        private void FrmCadastro_KeyDown(object sender, KeyEventArgs e)
         {
             // Verifica se a tecla pressionada (keyCode) é Enter (Keys.Enter).
             if (e.KeyCode == Keys.Enter)
@@ -43,22 +43,22 @@ namespace Cadastrosdeclientes
         private void button1_Click(object sender, EventArgs e)
         {
             ValidarUsuario();
-         
-
         }
-        private void ValidarUsuario()
+
+        private void ValidarUsuario() //Criando um metodo privado, que nao retorna nada por ser void.
         {
-            string usuario = txbUsuario.Text;
-            string senha = txbSenha.Text;
+            string usuario = txbUsuario.Text; //ler o texto do campo de entrada txbUsuario e o armazena na variável usuario.
+            string senha = txbSenha.Text; ///ler o texto do campo de entrada txbUsuario e o armazena na variável senha.
 
-            bool isValid = validadorLogin.ValidarLogin(usuario, senha);
+            bool isValid = validadorLogin.ValidarLogin(usuario, senha); // Chama o método ValidarLogin do objeto validadorLogin com as credenciais
+                                                                        // fornecidas e armazena o resultado na variavel isValid
 
-            if (isValid)
+            if (isValid == true)
             {
                 MessageBox.Show("Login bem-sucedido!");
-                Painel entrar = new Painel();
-                entrar.Show();
-                this.Hide(); // Esconde o formulário de login ao fazer login com sucesso
+                Painel entrar = new Painel(); //Cria uma nova instância do formulário Painel.
+                entrar.Show(); //pra exibir o formulario painel
+                this.Hide(); // Esconde o formulário de login ao fazer login com as credencias certass
             }
             else
             {
