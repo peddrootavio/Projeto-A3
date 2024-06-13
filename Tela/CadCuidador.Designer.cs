@@ -50,14 +50,19 @@
             this.btnBuscar = new System.Windows.Forms.Button();
             this.lblMatricula = new System.Windows.Forms.Label();
             this.txbMatricula = new System.Windows.Forms.TextBox();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.chkCuidador = new System.Windows.Forms.CheckBox();
+            this.lblTipo = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
             ((System.ComponentModel.ISupportInitialize)(this.gvCuidador)).BeginInit();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // txbBuscarCpf
             // 
             this.txbBuscarCpf.BackColor = System.Drawing.Color.Gainsboro;
             this.txbBuscarCpf.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbBuscarCpf.Location = new System.Drawing.Point(466, 327);
+            this.txbBuscarCpf.Location = new System.Drawing.Point(466, 338);
             this.txbBuscarCpf.Mask = "000,000,000-00";
             this.txbBuscarCpf.Name = "txbBuscarCpf";
             this.txbBuscarCpf.Size = new System.Drawing.Size(155, 30);
@@ -67,7 +72,7 @@
             // 
             this.txbId.BackColor = System.Drawing.Color.Gainsboro;
             this.txbId.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbId.Location = new System.Drawing.Point(18, 327);
+            this.txbId.Location = new System.Drawing.Point(18, 338);
             this.txbId.Name = "txbId";
             this.txbId.Size = new System.Drawing.Size(70, 30);
             this.txbId.TabIndex = 5;
@@ -78,7 +83,7 @@
             this.lblBuscaCpf.BackColor = System.Drawing.Color.Transparent;
             this.lblBuscaCpf.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBuscaCpf.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblBuscaCpf.Location = new System.Drawing.Point(462, 302);
+            this.lblBuscaCpf.Location = new System.Drawing.Point(462, 313);
             this.lblBuscaCpf.Name = "lblBuscaCpf";
             this.lblBuscaCpf.Size = new System.Drawing.Size(43, 22);
             this.lblBuscaCpf.TabIndex = 57;
@@ -88,7 +93,7 @@
             // 
             this.txbBuscarNome.BackColor = System.Drawing.Color.Gainsboro;
             this.txbBuscarNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbBuscarNome.Location = new System.Drawing.Point(94, 327);
+            this.txbBuscarNome.Location = new System.Drawing.Point(94, 338);
             this.txbBuscarNome.Name = "txbBuscarNome";
             this.txbBuscarNome.Size = new System.Drawing.Size(370, 30);
             this.txbBuscarNome.TabIndex = 6;
@@ -99,7 +104,7 @@
             this.lblBuscaNome.BackColor = System.Drawing.Color.Transparent;
             this.lblBuscaNome.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBuscaNome.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblBuscaNome.Location = new System.Drawing.Point(90, 302);
+            this.lblBuscaNome.Location = new System.Drawing.Point(90, 313);
             this.lblBuscaNome.Name = "lblBuscaNome";
             this.lblBuscaNome.Size = new System.Drawing.Size(64, 22);
             this.lblBuscaNome.TabIndex = 58;
@@ -111,7 +116,7 @@
             this.lblBuscaId.BackColor = System.Drawing.Color.Transparent;
             this.lblBuscaId.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblBuscaId.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblBuscaId.Location = new System.Drawing.Point(44, 302);
+            this.lblBuscaId.Location = new System.Drawing.Point(44, 313);
             this.lblBuscaId.Name = "lblBuscaId";
             this.lblBuscaId.Size = new System.Drawing.Size(27, 22);
             this.lblBuscaId.TabIndex = 59;
@@ -131,17 +136,18 @@
             // 
             this.txbTelefone.BackColor = System.Drawing.Color.Gainsboro;
             this.txbTelefone.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbTelefone.Location = new System.Drawing.Point(18, 203);
+            this.txbTelefone.Location = new System.Drawing.Point(22, 256);
             this.txbTelefone.Mask = "(00) 00000-0000";
             this.txbTelefone.Name = "txbTelefone";
-            this.txbTelefone.Size = new System.Drawing.Size(334, 30);
+            this.txbTelefone.Size = new System.Drawing.Size(365, 30);
             this.txbTelefone.TabIndex = 4;
             // 
             // txbCpf
             // 
             this.txbCpf.BackColor = System.Drawing.Color.Gainsboro;
             this.txbCpf.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbCpf.Location = new System.Drawing.Point(14, 122);
+            this.txbCpf.Location = new System.Drawing.Point(18, 175);
+            this.txbCpf.Mask = "000,000,000-00";
             this.txbCpf.Name = "txbCpf";
             this.txbCpf.Size = new System.Drawing.Size(369, 30);
             this.txbCpf.TabIndex = 1;
@@ -150,8 +156,8 @@
             // 
             this.txbData.BackColor = System.Drawing.Color.Gainsboro;
             this.txbData.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbData.Location = new System.Drawing.Point(414, 122);
-            this.txbData.Mask = " 00/00/0000";
+            this.txbData.Location = new System.Drawing.Point(418, 175);
+            this.txbData.Mask = "00/00/0000";
             this.txbData.Name = "txbData";
             this.txbData.Size = new System.Drawing.Size(334, 30);
             this.txbData.TabIndex = 2;
@@ -162,7 +168,7 @@
             this.lblData.BackColor = System.Drawing.Color.Transparent;
             this.lblData.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblData.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblData.Location = new System.Drawing.Point(410, 97);
+            this.lblData.Location = new System.Drawing.Point(414, 150);
             this.lblData.Name = "lblData";
             this.lblData.Size = new System.Drawing.Size(192, 22);
             this.lblData.TabIndex = 44;
@@ -172,7 +178,7 @@
             // 
             this.txbNome.BackColor = System.Drawing.Color.Gainsboro;
             this.txbNome.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbNome.Location = new System.Drawing.Point(14, 38);
+            this.txbNome.Location = new System.Drawing.Point(18, 102);
             this.txbNome.Name = "txbNome";
             this.txbNome.Size = new System.Drawing.Size(734, 30);
             this.txbNome.TabIndex = 0;
@@ -183,7 +189,7 @@
             this.lblTelefone.BackColor = System.Drawing.Color.Transparent;
             this.lblTelefone.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblTelefone.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblTelefone.Location = new System.Drawing.Point(14, 178);
+            this.lblTelefone.Location = new System.Drawing.Point(18, 231);
             this.lblTelefone.Name = "lblTelefone";
             this.lblTelefone.Size = new System.Drawing.Size(86, 22);
             this.lblTelefone.TabIndex = 41;
@@ -195,7 +201,7 @@
             this.lblCpf.BackColor = System.Drawing.Color.Transparent;
             this.lblCpf.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold);
             this.lblCpf.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblCpf.Location = new System.Drawing.Point(10, 97);
+            this.lblCpf.Location = new System.Drawing.Point(14, 150);
             this.lblCpf.Name = "lblCpf";
             this.lblCpf.Size = new System.Drawing.Size(43, 22);
             this.lblCpf.TabIndex = 45;
@@ -207,7 +213,7 @@
             this.lblNome.BackColor = System.Drawing.Color.Transparent;
             this.lblNome.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNome.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblNome.Location = new System.Drawing.Point(10, 13);
+            this.lblNome.Location = new System.Drawing.Point(14, 77);
             this.lblNome.Name = "lblNome";
             this.lblNome.Size = new System.Drawing.Size(64, 22);
             this.lblNome.TabIndex = 40;
@@ -220,7 +226,7 @@
             this.btnEditar.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold);
             this.btnEditar.ForeColor = System.Drawing.Color.Transparent;
             this.btnEditar.Image = ((System.Drawing.Image)(resources.GetObject("btnEditar.Image")));
-            this.btnEditar.Location = new System.Drawing.Point(189, 362);
+            this.btnEditar.Location = new System.Drawing.Point(189, 376);
             this.btnEditar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnEditar.Name = "btnEditar";
             this.btnEditar.Size = new System.Drawing.Size(123, 46);
@@ -228,6 +234,7 @@
             this.btnEditar.Text = "EDITAR";
             this.btnEditar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnEditar.UseVisualStyleBackColor = false;
+            this.btnEditar.Click += new System.EventHandler(this.btnEditar_Click);
             // 
             // btnCadastrar
             // 
@@ -236,7 +243,7 @@
             this.btnCadastrar.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold);
             this.btnCadastrar.ForeColor = System.Drawing.Color.Transparent;
             this.btnCadastrar.Image = ((System.Drawing.Image)(resources.GetObject("btnCadastrar.Image")));
-            this.btnCadastrar.Location = new System.Drawing.Point(14, 362);
+            this.btnCadastrar.Location = new System.Drawing.Point(14, 376);
             this.btnCadastrar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnCadastrar.Name = "btnCadastrar";
             this.btnCadastrar.Size = new System.Drawing.Size(173, 46);
@@ -244,6 +251,7 @@
             this.btnCadastrar.Text = "CADASTRAR";
             this.btnCadastrar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnCadastrar.UseVisualStyleBackColor = false;
+            this.btnCadastrar.Click += new System.EventHandler(this.btnCadastrar_Click);
             // 
             // btnExcluir
             // 
@@ -251,8 +259,7 @@
             this.btnExcluir.Cursor = System.Windows.Forms.Cursors.Hand;
             this.btnExcluir.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold);
             this.btnExcluir.ForeColor = System.Drawing.Color.Transparent;
-            this.btnExcluir.Image = global::Cadastrosdeclientes.Properties.Resources.lixo;
-            this.btnExcluir.Location = new System.Drawing.Point(318, 362);
+            this.btnExcluir.Location = new System.Drawing.Point(318, 376);
             this.btnExcluir.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnExcluir.Name = "btnExcluir";
             this.btnExcluir.Size = new System.Drawing.Size(131, 46);
@@ -260,6 +267,7 @@
             this.btnExcluir.Text = "EXCLUIR";
             this.btnExcluir.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnExcluir.UseVisualStyleBackColor = false;
+            this.btnExcluir.Click += new System.EventHandler(this.btnExcluir_Click_1);
             // 
             // btnBuscar
             // 
@@ -268,7 +276,7 @@
             this.btnBuscar.Font = new System.Drawing.Font("Century Gothic", 10.2F, System.Drawing.FontStyle.Bold);
             this.btnBuscar.ForeColor = System.Drawing.Color.Transparent;
             this.btnBuscar.Image = ((System.Drawing.Image)(resources.GetObject("btnBuscar.Image")));
-            this.btnBuscar.Location = new System.Drawing.Point(627, 321);
+            this.btnBuscar.Location = new System.Drawing.Point(455, 77);
             this.btnBuscar.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.btnBuscar.Name = "btnBuscar";
             this.btnBuscar.Size = new System.Drawing.Size(136, 45);
@@ -276,6 +284,7 @@
             this.btnBuscar.Text = "BUSCAR";
             this.btnBuscar.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.btnBuscar.UseVisualStyleBackColor = false;
+            this.btnBuscar.Click += new System.EventHandler(this.btnBuscar_Click);
             // 
             // lblMatricula
             // 
@@ -283,7 +292,7 @@
             this.lblMatricula.BackColor = System.Drawing.Color.Transparent;
             this.lblMatricula.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblMatricula.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-            this.lblMatricula.Location = new System.Drawing.Point(413, 178);
+            this.lblMatricula.Location = new System.Drawing.Point(417, 231);
             this.lblMatricula.Name = "lblMatricula";
             this.lblMatricula.Size = new System.Drawing.Size(92, 22);
             this.lblMatricula.TabIndex = 59;
@@ -293,10 +302,53 @@
             // 
             this.txbMatricula.BackColor = System.Drawing.Color.Gainsboro;
             this.txbMatricula.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txbMatricula.Location = new System.Drawing.Point(414, 203);
+            this.txbMatricula.Location = new System.Drawing.Point(418, 256);
             this.txbMatricula.Name = "txbMatricula";
             this.txbMatricula.Size = new System.Drawing.Size(334, 30);
             this.txbMatricula.TabIndex = 5;
+            // 
+            // groupBox1
+            // 
+            this.groupBox1.Controls.Add(this.btnBuscar);
+            this.groupBox1.Location = new System.Drawing.Point(0, 300);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(780, 427);
+            this.groupBox1.TabIndex = 60;
+            this.groupBox1.TabStop = false;
+            // 
+            // chkCuidador
+            // 
+            this.chkCuidador.AutoSize = true;
+            this.chkCuidador.Checked = true;
+            this.chkCuidador.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkCuidador.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold);
+            this.chkCuidador.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.chkCuidador.Location = new System.Drawing.Point(15, 38);
+            this.chkCuidador.Name = "chkCuidador";
+            this.chkCuidador.Size = new System.Drawing.Size(115, 26);
+            this.chkCuidador.TabIndex = 62;
+            this.chkCuidador.Text = "Cuidador";
+            this.chkCuidador.UseVisualStyleBackColor = true;
+            // 
+            // lblTipo
+            // 
+            this.lblTipo.AutoSize = true;
+            this.lblTipo.BackColor = System.Drawing.Color.Transparent;
+            this.lblTipo.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTipo.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
+            this.lblTipo.Location = new System.Drawing.Point(10, 9);
+            this.lblTipo.Name = "lblTipo";
+            this.lblTipo.Size = new System.Drawing.Size(46, 22);
+            this.lblTipo.TabIndex = 61;
+            this.lblTipo.Text = "Tipo";
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Location = new System.Drawing.Point(14, 9);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Size = new System.Drawing.Size(184, 65);
+            this.groupBox2.TabIndex = 63;
+            this.groupBox2.TabStop = false;
             // 
             // CadCuidador
             // 
@@ -304,6 +356,8 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(777, 703);
+            this.Controls.Add(this.chkCuidador);
+            this.Controls.Add(this.lblTipo);
             this.Controls.Add(this.txbBuscarCpf);
             this.Controls.Add(this.txbMatricula);
             this.Controls.Add(this.txbId);
@@ -316,7 +370,6 @@
             this.Controls.Add(this.btnEditar);
             this.Controls.Add(this.btnCadastrar);
             this.Controls.Add(this.btnExcluir);
-            this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.txbTelefone);
             this.Controls.Add(this.txbCpf);
             this.Controls.Add(this.txbData);
@@ -325,11 +378,14 @@
             this.Controls.Add(this.lblTelefone);
             this.Controls.Add(this.lblCpf);
             this.Controls.Add(this.lblNome);
+            this.Controls.Add(this.groupBox1);
+            this.Controls.Add(this.groupBox2);
             this.Name = "CadCuidador";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = " Cadastro de Cuidador";
+            this.Text = "Cadastro Cuidador";
             ((System.ComponentModel.ISupportInitialize)(this.gvCuidador)).EndInit();
+            this.groupBox1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -358,5 +414,9 @@
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.Label lblMatricula;
         private System.Windows.Forms.TextBox txbMatricula;
+        private System.Windows.Forms.GroupBox groupBox1;
+        private System.Windows.Forms.CheckBox chkCuidador;
+        private System.Windows.Forms.Label lblTipo;
+        private System.Windows.Forms.GroupBox groupBox2;
     }
 }

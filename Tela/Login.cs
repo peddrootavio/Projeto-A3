@@ -55,7 +55,7 @@ namespace Cadastrosdeclientes
 
             if (isValid == true)
             {
-                MessageBox.Show("Login bem-sucedido!");
+                MessageBox.Show("Login bem-sucedido!", "Login",MessageBoxButtons.OK, MessageBoxIcon.Information);
                 Painel entrar = new Painel(); //Cria uma nova instância do formulário Painel.
                 entrar.Show(); //pra exibir o formulario painel
                 this.Hide(); // Esconde o formulário de login ao fazer login com as credencias certass

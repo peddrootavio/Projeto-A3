@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\",
+  "WorkspaceRootPath": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\view\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\tela\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:tela\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\view\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:view\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3\\tela\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:tela\\cadcuidador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\controller\\validadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:controller\\validadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\tela\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:tela\\cadidoso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|c:\\users\\pedro\\desktop\\projeto-a3 - copia\\model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:model\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|C:\\Users\\pedro\\Desktop\\Projeto-A3\\classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EAA352D-6539-41CC-9F30-DE61343E009E}|Cadastrosdeclientes.csproj|solutionrelative:classes\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,53 +70,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\Model\\Login.cs",
-              "RelativeDocumentMoniker": "Model\\Login.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\Model\\Login.cs",
-              "RelativeToolTip": "Model\\Login.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABNAAAA",
+              "DocumentIndex": 0,
+              "Title": "CadCuidador.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadCuidador.cs",
+              "RelativeDocumentMoniker": "Tela\\CadCuidador.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadCuidador.cs",
+              "RelativeToolTip": "Tela\\CadCuidador.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAGsAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T05:37:46.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Validadores.cs",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\Controller\\Validadores.cs",
-              "RelativeDocumentMoniker": "Controller\\Validadores.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\Controller\\Validadores.cs",
-              "RelativeToolTip": "Controller\\Validadores.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T05:37:44.343Z",
+              "WhenOpened": "2024-06-13T17:04:06.669Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CadIdoso.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\View\\CadIdoso.cs",
-              "RelativeDocumentMoniker": "View\\CadIdoso.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\View\\CadIdoso.cs [Design]",
-              "RelativeToolTip": "View\\CadIdoso.cs [Design]",
+              "Title": "CadCuidador.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadCuidador.cs",
+              "RelativeDocumentMoniker": "Tela\\CadCuidador.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadCuidador.cs [Design]",
+              "RelativeToolTip": "Tela\\CadCuidador.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:47:21.188Z",
+              "WhenOpened": "2024-06-13T17:04:04.779Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CadCuidador.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\View\\CadCuidador.cs",
-              "RelativeDocumentMoniker": "View\\CadCuidador.cs",
-              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3 - Copia\\View\\CadCuidador.cs [Design]",
-              "RelativeToolTip": "View\\CadCuidador.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "CadIdoso.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadIdoso.cs",
+              "RelativeDocumentMoniker": "Tela\\CadIdoso.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Tela\\CadIdoso.cs",
+              "RelativeToolTip": "Tela\\CadIdoso.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAmwIUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:46:12.127Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-13T17:01:58.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Classes\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Classes\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\pedro\\Desktop\\Projeto-A3\\Classes\\Pessoa.cs",
+              "RelativeToolTip": "Classes\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T02:45:58.871Z"
             }
           ]
         }

@@ -478,7 +478,6 @@ C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.exe
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.pdb
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadIdoso.resources
 C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadCuidador.resources
-C:\Users\pedro\Desktop\Projeto-A3\obj\Debug\Cadastrosdeclientes.View.CadCronograma.resources
 C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.csproj.AssemblyReference.cache
 C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.View.CadCuidador.resources
 C:\Users\pedro\Desktop\Projeto-A3 - Copia\obj\Debug\Cadastrosdeclientes.View.CadIdoso.resources
